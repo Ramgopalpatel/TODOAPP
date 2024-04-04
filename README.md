@@ -1,6 +1,6 @@
 Project:  To-Do App
 
-Live Linl==>   https://todoappbyrpg.netlify.app
+Live Link==>   https://todoappbyrpg.netlify.app
 
 Overview:
 In this project, we'll create a simple to-do list application using HTML, CSS, JavaScript, and React.js. The app will allow users to add, and delete tasks.
